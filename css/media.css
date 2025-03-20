@@ -1,0 +1,67 @@
+@media (max-width: 991px) {
+    .about {
+        .container {
+            width: 90% !important;
+
+            .container {
+                width: 100% !important;
+            }
+        }
+
+        .home_img {
+            margin-bottom: 55px;
+        }
+    }
+
+    .team {
+        .container {
+            max-width: 950px;
+            width: 97% !important;
+        }
+    }
+
+    .contact {
+        .container {
+            max-width: 970px;
+            width: 100% !important;
+        }
+    }
+
+    .container {
+        max-width: 950px;
+        width: 90% !important;
+    }
+}
+
+@media (max-width: 576px) {
+    nav {
+        .navbar-collapse {
+            background-color: white !important;
+            padding: 10px;
+        }
+
+        .navbar-nav li a {
+            color: #222 !important;
+            text-align: center;
+            padding-block: 15px !important;
+        }
+    }
+
+    header {
+        h1 {
+            font-size: 1.7rem;
+        }
+    }
+
+    .contact {
+        .container {
+            max-width: 550px;
+            width: 100% !important;
+        }
+    }
+
+    .container {
+        max-width: 550px;
+        width: 90% !important;
+    }
+}
